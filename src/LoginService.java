@@ -4,6 +4,6 @@ public class LoginService {
 
         //new file to help understand branching
         //master and head
-
+//let's add more notes to feature-b
     }
 }
